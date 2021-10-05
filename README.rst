@@ -1,4 +1,4 @@
-**⚠️ This project is no longer maintained! ⚠️** It has been merged into the `grant-reporter<https://github.com/usdigitalreponse/grant-reporter>`_ project. You can find a more up-to-date version of this code there.
+**⚠️ This project is no longer maintained! ⚠️** It has been merged into the `grant-reporter <https://github.com/usdigitalresponse/grant-reporter>`_ project. You can find a more up-to-date version of this code there.
 
 
 Entity Lookup Service
